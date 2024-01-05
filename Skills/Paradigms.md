@@ -5,9 +5,9 @@
   - Imperative programming: 🖐️ used
   - Structured programming: 🎓 known
   - Non-structured programming: 🎓 known
-  - Functional programming: 🖐️ used
+  - Functional programming: 🙋 explained
   - Prototype-based programming: 🎓 known
-  - Object-oriented programming: 🖐️ used
+  - Object-oriented programming: 🙋 explained
   - Object-based programming: 🎓 known
   - Generic programming: 🎓 known
   - Concurrent computing: 🎓 known
@@ -17,48 +17,48 @@
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming: 🎓 known
+  - Multi-paradigm programming: 🙋 explained
   - Metaprogramming
   - Actor model: 🎓 known
 - OOP basics
-  - constructor: 🖐️ used
-  - new: 🖐️ used
-  - Static method: 🖐️ used
-  - Method: 🖐️ used
-  - Async method: 🖐️ used
-  - Getters, Setters: 🖐️ used
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
+  - constructor: 🙋 explained
+  - new: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🙋 explained
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
   - Field declarations
-  - Inheritance: 🖐️ used
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
   - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - instance: 🖐️ used
+  - Introspection: 🖐️ used
+  - Reflection: 🖐️ used
 - Patterns
-  - Singleton: 🖐️ used
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
+  - Singleton: 🙋 explained
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
+  - Adapter: 👂 heard
+  - Observer: 👂 heard
   - Strategy
-  - Facade
-  - Proxy
+  - Facade: 👂 heard
+  - Proxy: 👂 heard
   - Chain of Responsibility
-  - Command
+  - Command: 🎓 known
   - Iterator
   - State
   - Bridge
   - Builder
   - Prototype: 🖐️ used
   - Composite
-  - Decorator
+  - Decorator: 🖐️ used
   - Flyweight
   - Mediator
   - Memento
